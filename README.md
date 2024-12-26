@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yash goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash goswami" height="30" width="40" /></a>
 <a href="https://instagram.com/yash_goswami41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_goswami41" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/YashGoswami22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="yash_goswami41" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/YashGoswami22/" target="blank"><img align="center" src="https://imgs.search.brave.com/Iuivr1EaaJfxUCIZfmjJpEDj0v6Gq_yrqhwWDvG8XKg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzBhL0xlZXRDb2Rl/X0xvZ29fYmxhY2tf/d2l0aF90ZXh0LnN2/Zw" alt="yash_goswami41" height="30" width="40" /></a>
 </p>  
 
 <h3 align="left">Languages and Tools:</h3>
