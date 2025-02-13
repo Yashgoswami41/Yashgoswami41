@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Data Structure**
 
 - 👯 I’m looking to collaborate on **Website development**
 
